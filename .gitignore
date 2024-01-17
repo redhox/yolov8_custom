@@ -1,0 +1,9 @@
+.venv/
+runs/
+datasets/
+datasets_exemple/
+data.yaml
+detection_masques.ipynb
+yolov8n.pt
+yolov8s.pt
+resultat/*
